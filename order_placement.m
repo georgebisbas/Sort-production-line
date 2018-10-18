@@ -1,6 +1,7 @@
 % Simple solver for 4-digit array matching using
 % swap or rotations
-%
+% Used for educational purposes for children 12-15 years old.
+% George Bisbas
 
 clc; close all; clear all;
 
