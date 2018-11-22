@@ -5,8 +5,7 @@
 
 clc; close all; clear all;
 
-
-solved = 1; %not solved
+solved = 1; % flag for not solved
 
 while solved==1
  clc;
